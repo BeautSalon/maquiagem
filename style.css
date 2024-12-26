@@ -19,6 +19,14 @@ header{
 .logo{
     width: 78%;
 }
+.relogio{
+    margin: 8px 10px;
+    display: block;
+    height: 30px;
+}
+a{
+    display: contents;
+}
 .caixa{
     display: grid;
     margin: 30px;
